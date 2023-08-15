@@ -1,5 +1,5 @@
 # Live Battery Level Indicator 🖥️
-## [Preview](#) | [UI Design](#)
+## [Preview](https://rhr3032.github.io/Live-Battery-Level-Indicator/) | [UI Design](#)
 
 
 ### Include this Portfolio Website ➡️
